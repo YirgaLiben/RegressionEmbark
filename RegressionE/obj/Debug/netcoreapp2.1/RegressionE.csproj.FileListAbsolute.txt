@@ -1,0 +1,13 @@
+C:\Users\yliben\Documents\Visual Studio 2017\Projects\RegressionE\RegressionE\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\yliben\Documents\Visual Studio 2017\Projects\RegressionE\RegressionE\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\yliben\Documents\Visual Studio 2017\Projects\RegressionE\RegressionE\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\yliben\Documents\Visual Studio 2017\Projects\RegressionE\RegressionE\bin\Debug\netcoreapp2.1\RegressionE.deps.json
+C:\Users\yliben\Documents\Visual Studio 2017\Projects\RegressionE\RegressionE\bin\Debug\netcoreapp2.1\RegressionE.runtimeconfig.json
+C:\Users\yliben\Documents\Visual Studio 2017\Projects\RegressionE\RegressionE\bin\Debug\netcoreapp2.1\RegressionE.runtimeconfig.dev.json
+C:\Users\yliben\Documents\Visual Studio 2017\Projects\RegressionE\RegressionE\bin\Debug\netcoreapp2.1\RegressionE.dll
+C:\Users\yliben\Documents\Visual Studio 2017\Projects\RegressionE\RegressionE\bin\Debug\netcoreapp2.1\RegressionE.pdb
+C:\Users\yliben\Documents\Visual Studio 2017\Projects\RegressionE\RegressionE\obj\Debug\netcoreapp2.1\RegressionE.csproj.CoreCompileInputs.cache
+C:\Users\yliben\Documents\Visual Studio 2017\Projects\RegressionE\RegressionE\obj\Debug\netcoreapp2.1\RegressionE.AssemblyInfoInputs.cache
+C:\Users\yliben\Documents\Visual Studio 2017\Projects\RegressionE\RegressionE\obj\Debug\netcoreapp2.1\RegressionE.AssemblyInfo.cs
+C:\Users\yliben\Documents\Visual Studio 2017\Projects\RegressionE\RegressionE\obj\Debug\netcoreapp2.1\RegressionE.dll
+C:\Users\yliben\Documents\Visual Studio 2017\Projects\RegressionE\RegressionE\obj\Debug\netcoreapp2.1\RegressionE.pdb
